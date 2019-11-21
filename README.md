@@ -1,1 +1,1 @@
-test
+COLLEGE
